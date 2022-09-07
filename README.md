@@ -3,7 +3,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![kodluyoruz]([url=https://www.hizliresim.com/2l2gvip][img]https://i.hizliresim.com/2l2gvip.png[/img][/url])
+![kodluyoruz](https://resimag.com/p1/84225b9eb1b5.png)
 
 #Installation
 -------
